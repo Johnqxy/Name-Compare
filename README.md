@@ -1,3 +1,3 @@
-# Name-Compare
-compare names and annotations
+# Name-Process
+compare names and annotations \n
 create train/val list
